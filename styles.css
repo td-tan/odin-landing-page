@@ -1,8 +1,11 @@
+* {
+    font-family: 'Orbitron', sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
 
-    font-family: 'Orbitron', sans-serif;
     display: flex;
     flex-direction: column;
 }
