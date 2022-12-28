@@ -144,6 +144,8 @@ blockquote {
     justify-content: space-evenly;
     align-items: center;
     padding: 25px;
+    margin-left: 500px;
+    margin-right: 500px;
 }
 
 .call-to-action .button-signup {
