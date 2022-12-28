@@ -128,3 +128,22 @@ blockquote {
     font-style: italic;
     color: #1F2937
 }
+
+.action {
+    margin: 100px;
+}
+
+.call-to-action {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 25px;
+}
+
+.call-to-action .button-signup {
+    border-style: solid;
+    border-color: #E5E7EB;
+}
