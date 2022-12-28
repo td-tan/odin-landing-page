@@ -1,6 +1,6 @@
 # Landing Page for TOP Foundation Course
 
-A ticket to a moon flight.
+A ticket to a moon flight. [Preview](https://td-tan.github.io/odin-landing-page)
 
 ## Design Specifications
 
