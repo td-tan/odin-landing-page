@@ -147,3 +147,17 @@ blockquote {
     border-style: solid;
     border-color: #E5E7EB;
 }
+
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    padding: 12px;
+}
+
+footer img {
+    height: 64px;
+    width: 64px;
+}
